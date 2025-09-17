@@ -33,7 +33,7 @@ This project is currently in the development stage. To bring it fully to life, I
 👤 **Developer**: Lynder Angwenyi  
 📍 Kisii, Kenya  
 📞 0715672771  
-📧 [Insert your email address here]  
+📧 lynderangwenyi828@gmail.com 
 
 ---
 
