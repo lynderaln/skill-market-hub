@@ -35,7 +35,7 @@ export default function SkillMarketHub() {
             <p className="text-gray-700">Name: Lynder Angwenyi</p>
             <p className="text-gray-700">Location: Kisii, Kenya</p>
             <p className="text-gray-700">Phone: 0715672771</p>
-            <p className="text-gray-700">Email: [Insert Your Email Here]</p>
+            <p className="text-gray-700">Email: lynderangwenti8282@gmail.com</p>
           </div>
 
           <Button className="bg-blue-600 text-white px-6 py-3 rounded-xl shadow hover:bg-blue-700">
